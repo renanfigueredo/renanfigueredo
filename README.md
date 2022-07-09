@@ -1,7 +1,7 @@
 ## Olá, muito prazer. Eu sou o Renan Figueredo !
 
 
-- 🎓 Bacharel em Engenharia de Controle e Automação
+- 🎓 Engenheiro de Controle e Automação
 - ☕ Atualmente estou estutando Java 
 - 📚 Futuramente pretendo estudar Linux, Front-end e Phyton. 
 <br>
