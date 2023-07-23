@@ -1,8 +1,9 @@
-## Olá, muito prazer. Eu sou o Renan Figueredo !
+<h1> Olá, muito prazer ! <br>
+Eu sou o Renan Figueredo. </h1>
 
-
-- 🎓 Engenheiro de Controle e Automação
-- ☕ Atualmente estou estutando HTML e CSS 
+- 🎓 Engenheiro de Controle e Automação pelo Inatel
+- 🧑🏻‍🏫 Pós-Graduando em Engenharia de Software pela PUC
+- 🤓 Atualmente estou estudando HTML e CSS 
 - 📚 Futuramente pretendo estudar JavaScript, React, Linux e Phyton. 
 <br>
 
@@ -21,12 +22,10 @@
  ##
  
  <div> 
-
   <a href="https://www.facebook.com/nanolivef" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/renanolivef/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renanolive/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:renan.figueredo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- 
  </div>
  
  
