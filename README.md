@@ -2,8 +2,8 @@
 
 
 - 🎓 Engenheiro de Controle e Automação
-- ☕ Atualmente estou estutando Java 
-- 📚 Futuramente pretendo estudar Linux, Front-end e Phyton. 
+- ☕ Atualmente estou estutando HTML e CSS 
+- 📚 Futuramente pretendo estudar JavaScript, React, Linux e Phyton. 
 <br>
 
 <div align="center">
@@ -15,7 +15,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renan-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renan-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
  
